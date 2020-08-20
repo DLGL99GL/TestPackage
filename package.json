@@ -6,7 +6,7 @@
   "unity": "2018.3",
   "unityRelease": "0b5",
   "dependencies": {
-    "com.voxelsense.sdk": "https://github.com/DLGL99GL/TestPackage.git" 
+    "com.voxelsense.sdk": "https://github.com/DLGL99GL/TestPackage.git#1.2.1" 
  },
  "keywords": [
     "keyword1",
@@ -16,6 +16,6 @@
   "author": {
     "name": "Unity SDK",
     "email": "unity@example.com",
-    "url": "https://github.com/DLGL99GL/TestPackage.git"
+    "url": "https://github.com/DLGL99GL/TestPackage.git#1.2.1"
   }
 }
