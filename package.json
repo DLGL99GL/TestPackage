@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "com.voxelsense.sdk",
   "version": "1.2.1",
   "displayName": "Package Example",
@@ -6,7 +6,7 @@
   "unity": "2018.3",
   "unityRelease": "0b5",
   "dependencies": {
-    "com.voxelsense.sdk": "1.2.1" 
+    "com.voxelsense.sdk1": "https://github.com/DLGL99GL/TestPackage.git" 
  },
  "keywords": [
     "keyword1",
