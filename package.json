@@ -1,7 +1,7 @@
 ﻿{
   "name": "com.voxelsense.sdk",
   "version": "1.2.1",
-  "displayName": "Package Example",
+  "displayName": "sdk",
   "description": "这个是测试的",
   "unity": "2018.3",
   "unityRelease": "0b5",
@@ -16,6 +16,6 @@
   "author": {
     "name": "Unity SDK",
     "email": "unity@example.com",
-    "url": "https://github.com/DLGL99GL/TestPackage"
+    "url": "https://github.com/DLGL99GL/TestPackage.git"
   }
 }
